@@ -29,7 +29,7 @@
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>mdn</string>
+	<string>MDN Search</string>
 	<key>objects</key>
 	<array>
 		<dict>
