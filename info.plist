@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>com.pawelgrzybek.mdn</string>
+	<string>com.pawelgrzybek.alfred-mdn-search</string>
 	<key>category</key>
 	<string>Internet</string>
 	<key>connections</key>
